@@ -1,3 +1,18 @@
-- New Loading Screen added
-- Added ERPT Ford Focus Active
-- Added ERPT Unmarked Ford Focus Active
+Update Ambulance sistem ( Pentru angajati )
+Update spital (jucatori si angajati), acum jucatorii pot merge la spital atunci cand resimt dureri, stres etc.
+Update Police
+Acum politia poate sechestra masini cu taxa de recuperare sau fara.
+Politia poate folosii acum bratara de localizare 
+
+UPDATE DRUGS
+Acum drogurile pot fi plantate in locatii alese de jucatori (Doar grupuri de jucatori pot face asta), se poate descoperii in game pas cu pas.
+
+UPDATE Admini
+/warn id reason
+/checkwarns id
+/delwarn id 
+
+Pentru a chema ambulanta folositi /991e
+Pentru a interactiona in joc folositi ALT ( de exemplu pentru a cumpara o masina de la showroom)
+Pentru a deschide telefonul apasati M
+Pentru a deschide meniul secundar apasati F1
